@@ -1,0 +1,185 @@
+body{
+    font-family: 'Anton', sans-serif;
+    
+}
+h1{
+    font-size: 50px;
+}
+
+#image-size{
+    height: 50%;
+    width: 50%;
+}
+
+.half-width{
+    width: 40%;
+    margin: 5%;
+    float: left;
+    
+
+}
+
+section{
+    height: 550px;
+    margin: 2px;
+    
+}
+
+.golden-highlight{
+    color: goldenrod;
+}
+.link-button{
+    color: black;
+    text-decoration: none;
+    background-image: linear-gradient(45deg,white, white);
+    border-radius: 5px;
+    font-weight: 700;
+    border:2px solid black;
+    padding: 10px 20px;
+}
+
+
+
+
+
+
+
+.third-bannner {
+    margin: 0%;
+    background-color: whitesmoke;
+    
+    width: auto;
+    height:auto;
+}
+.third-bannner h2{
+    color: #363958;
+    text-align: center;
+    font-size: 31px;
+    
+
+}  
+
+.onethird-width{
+    
+    width: 305px;
+    height: 330px;
+    
+    box-shadow: 10px 10px 10px gray ;
+    border-radius: 10px;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-right: 0px;
+    margin-left: 30%;
+    color: #363958;
+    float: left;
+    background-color: #FFFFFF;
+    ;
+}
+
+.onethird-width img{
+    background-color: white;
+    height: 190px;
+    width: 250px;
+    
+    border-radius: 25px;
+   
+    
+
+}    
+
+.widthmaintain{
+    width: 250px;
+}
+
+.paddingcontrol1{
+    margin-left: 5%;
+    margin-right: 2px;
+}
+
+.paddingcontrol2{
+    margin-left: 5%;
+    margin-right: 2px;
+}
+
+
+.paddingcontrol3{
+
+    
+    margin-left: 5%;
+    margin-right:2px;
+    
+
+
+}
+
+
+
+
+.workchat{
+
+    height: 400px;
+
+}
+
+.bluebox{
+    background-image: linear-gradient(140deg, black,black) ;
+    width: 65%;
+    margin: 90px 210px;
+    border:5px solid black;
+   
+
+    border-radius: 30px;
+
+    display: inline-block;
+    
+    
+    
+    
+}
+
+.adjustpadding{
+    padding: 80px ;
+
+}
+
+.leftsidemargin{
+    margin-left: 200px;
+}
+
+.letschatmargin{
+    margin-left: 320px;
+}
+
+.link-button2{
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(45deg,black,black);
+    border-radius: 20px;
+    font-weight: 700;
+    border: 2px solid white;
+    padding: 10px 20px;
+}
+
+footer  h3 {
+    
+    text-align: center;
+}
+
+.link-button3{
+    color: #363958;
+    text-decoration: none;
+    
+}
+
+.logodesign {
+    height:200px;
+    width:45%;
+    margin-left: 380px;
+}
+
+
+.logo {
+    float: left;
+    padding-left: 30px;
+}
+
